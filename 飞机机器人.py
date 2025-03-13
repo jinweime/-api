@@ -16,7 +16,7 @@ TELEGRAM_TOKEN = "7645103344:AAGaBWdeOrW3LHukDS9CwBIeEVGUzj0oVX0"
 CHAT_ID = "6136287262"
 STATUS_FILE = 'app_status.json'  # 状态存储文件
 PACKAGE_LIST = [
-    "com.mangatoonmc.viewer",
+    "com.mangatoonmc.viewer1",
     # 在此添加其他需要监控的包名
 ]
 
